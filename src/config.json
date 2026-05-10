@@ -12,5 +12,5 @@
   "random_state": 42,
   "epochs": 5,
   "batch_size": 32,
-  "threshold": 0.5
+  "threshold": 0.7
 }
