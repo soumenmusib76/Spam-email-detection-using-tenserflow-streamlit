@@ -1,0 +1,16 @@
+{
+  "data_path": "data/email.csv",
+  "model_path": "models/spam_classifier.keras",
+  "tokenizer_path": "models/tokenizer.pkl",
+  "metrics_path": "models/metrics.json",
+  "max_words": 10000,
+  "max_len": 100,
+  "embedding_dim": 32,
+  "lstm_units": 16,
+  "dense_units": 32,
+  "test_size": 0.2,
+  "random_state": 42,
+  "epochs": 5,
+  "batch_size": 32,
+  "threshold": 0.5
+}
